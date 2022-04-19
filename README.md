@@ -1,3 +1,2 @@
 # Testing_Land1
-I just wanna get everything running
-Im new to git.
+Lets practice some Java here
